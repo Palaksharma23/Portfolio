@@ -14,7 +14,7 @@ function About() {
         <div className="main form">
            <div className="left contact-form-container">
            <p className='text'>
-          Myself Palak Sharma, I am pursuing B.tech  degree in Computer Science Engineering from ABES Engineering College, Currently i am in my Second Year of College. I am experienced with C, C++, HTML, CSS, JavaScript, GIT, Github, VueJS, ReactJS and Python. 
+          I am Palak Sharma, I am pursuing B.tech  degree in Computer Science Engineering from ABES Engineering College, Currently i am in my Second Year of College. I am experienced with C, C++, HTML, CSS, JavaScript, GIT, Github, VueJS, ReactJS and Python. 
           <br/> I love teaching needy childerns, so i also started a Youtube Channel to provide access to good quality, free education to all the students.{" "}<br/>
   I'm self starter with strong Interpersonal skills and a never ending thirst to explore new technologies. I am a team Player. I can keep my cool under pressure . I'm passionate about learning new things. I enjoy creating sleek and responsive applications in addition to being user friendly. With my cultural and sport experiences I excel at collaborating with teams of same or different knowledge sets. A versatile engineer with interests in software Engineering and Algorithms. Adaptable and self motivated learner. Interested in new programming technologies, and continuous self improvement.
         </p>
