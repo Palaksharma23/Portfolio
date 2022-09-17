@@ -1,0 +1,40 @@
+.footer {
+    text-align: center;
+}
+
+.responsiverow {
+    /* vertical-align: top; */
+    display: inline-block;
+    color: #b2b3ba;
+    max-width: 320px;
+    width: 100%;
+}
+
+.socialcircle {
+    position: relative;
+    display: inline-block;
+    background-color: #060b26;
+    padding: 10px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    color: #fff;
+    margin: 2%;
+}
+
+.socialcircle:hover {
+    background-color: #b2b3ba;
+}
+
+.copyright {
+    background-color: #b2b3ba;
+    padding: 12px;
+}
+.inner {
+    /* min-width: 200px; */
+    padding: 10px 10px 30px;
+}
